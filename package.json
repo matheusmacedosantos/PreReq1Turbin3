@@ -12,9 +12,12 @@
   "dependencies": {
     "@solana/web3.js": "^1.75.0",
     "@types/node": "^18.15.11",
+    "bs58": "^6.0.0",
+    "prompt-sync": "^4.2.0",
     "typescript": "^5.0.4"
   },
   "devDependencies": {
+    "@types/prompt-sync": "^4.2.3",
     "ts-node": "^10.9.2"
   }
 }
