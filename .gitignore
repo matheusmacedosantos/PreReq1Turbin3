@@ -14,4 +14,7 @@
 node_modules/
 *.wallet.json
 dist/
+dev-wallet.json
 
+
+.yarn/cache/
