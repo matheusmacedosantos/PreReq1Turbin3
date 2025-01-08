@@ -7,4 +7,3 @@ ${kp.publicKey.toBase58()}
 To save your wallet, copy and paste the output of the following into a JSON file:
 [${kp.secretKey}]`);
 
-
